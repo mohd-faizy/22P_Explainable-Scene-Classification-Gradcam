@@ -374,9 +374,7 @@ jupyter lab scene_classification.ipynb
 
 # License
 
-This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license (see [LICENSE](LICENSE)).
-
-Individual repositories listed here remain under their respective licenses.
+This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
